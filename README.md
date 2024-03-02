@@ -1,6 +1,5 @@
-
 <h1 align="center">Severity</h1>
-<a href="https://github.com/imvast"></a>
+<a href="https://github.com/severityc"></a>
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=severityc&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
@@ -9,7 +8,7 @@
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py, html, css,"/>
+           <img src="https://skillicons.dev/icons?i=py"/>
 </p>
 
 <br>
