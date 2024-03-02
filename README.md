@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on a GUI 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [Profile](https://guns.lol/severity)
+- 📫 How to reach me: [click med](https://guns.lol/severity)
