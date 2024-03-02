@@ -1,4 +1,4 @@
-<h1 align="center">Severity</h1>
+<h1 align="center">Severityc</h1>
 <a href="https://github.com/severityc"></a>
 
 <p align="center">
