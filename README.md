@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on a GUI 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [Discord](https://discord.com/users/1130686206871621642)
+- 📫 How to reach me: [Profile](https://guns.lol/severity)
